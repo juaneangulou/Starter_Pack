@@ -28,7 +28,25 @@ Estas últimas son con un modelo en el cual pagas o  haces un acuerdo para que  
 * EdTeam: https://ed.team/cursos-gratis
 * Platzi Este curso https://platzi.com/clases/programacion-basica/
 
-##Red Social para profesionales:
+## Red Social para profesionales:
 https://www.linkedin.com/
+
+# Empresa enfocada a la diciplina de testers
+https://www.qavision.com.co/quienes-somos ellos támbien entrenan personal según por convocartoria.
+
+# Empresas que abren vacantes para entrenar personas desde Junior a experto por convocatoria
+* ****Team International****: https://www.teaminternational.com/
+* ****Devco****: https://www.devco.com.co/
+* ****Endava****: https://www.endava.com/en/About/Locations/Latin-America/Medellin
+* ****Globant****: https://www.globant.com/
+* ****Lean Tech****: https://www.lean-tech.io/
+
+
+# Comunidades de Ruta N
+https://www.rutanmedellin.org/comunidadestech/todas/
+
+
+
+
 
 
