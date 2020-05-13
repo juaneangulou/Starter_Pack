@@ -6,13 +6,13 @@ Stackoverflow https://stackoverflow.com/ es la página de los lamentos para todo
 
 Para empezar existen varias plataformas que nos ayudarán a alcanzar las metas en cuanto a conocimiento entre ellas estan:
 
--Platzi: https://platzi.com/ 
--Udemy: https://www.udemy.com/ Acá hay cursos de toda clase, manualidades, cocina, deporte, pero en los últimos años se ha posicionado como una de las plataformas favoritas para el consumo de cursos de hecho es una de mis favoritas. 
--EdTeam: https://ed.team/cursos
--NetUniversity: https://net-university.ninja/
--Coursera: https://www.coursera.org/
--Acamica : https://www.acamica.com/
--Kodoti: https://kodoti.com/cursos
+--Platzi: https://platzi.com/ 
+--Udemy: https://www.udemy.com/ Acá hay cursos de toda clase, manualidades, cocina, deporte, pero en los últimos años se ha posicionado como una de las plataformas favoritas para el consumo de cursos de hecho es una de mis favoritas. 
+--EdTeam: https://ed.team/cursos
+--NetUniversity: https://net-university.ninja/
+--Coursera: https://www.coursera.org/
+--Acamica : https://www.acamica.com/
+--Kodoti: https://kodoti.com/cursos
 
 Todas las anteriores plataformas tienen cursos gratis  pero en su mayoria son de pago.
 
