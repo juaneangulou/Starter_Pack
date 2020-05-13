@@ -11,6 +11,8 @@ Para empezar existen varias plataformas que nos ayudarán a alcanzar las metas e
 -EdTeam: https://ed.team/cursos
 -NetUniversity: https://net-university.ninja/
 -Coursera: https://www.coursera.org/
+-Acamica : https://www.acamica.com/
+-Kodoti: https://kodoti.com/cursos
 
 Todas las anteriores plataformas tienen cursos gratis  pero en su mayoria son de pago.
 
@@ -19,3 +21,14 @@ Existen estos casos especiales:
 -Make it real: https://makeitreal.camp/
 
 Estas últimas son con un modelo en el cual pagas o  haces un acuerdo para que  te cobre solo cuando tengas trabajo y ellos te ayudarán a prepararte par apresentar la entrevista y obtener el trabajo, muy importante el tema del Inglés! pero pueden indagar.
+
+
+Cursos gratis recomendados:
+-En Udemy existen este listado de cursos gratuitos http://rebaja.info/750cursos.html
+-EdTeam: https://ed.team/cursos-gratis
+-Platzi Este curso https://platzi.com/clases/programacion-basica/
+
+Red Social para profesionales:
+https://www.linkedin.com/
+
+
