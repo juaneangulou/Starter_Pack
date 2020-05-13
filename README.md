@@ -51,6 +51,13 @@ https://www.rutanmedellin.org/comunidadestech/todas/
 * Ruta de aprendizaje de un desarrollador web: https://youtu.be/ExsGyZDBlJQ
 * Aprender a Aprender: https://www.youtube.com/watch?v=jD12EKtDJTU
 
+### Grupos en facebook con comunidades activos:
+- Angular : https://www.facebook.com/groups/339352393220554/
+- Node JS : https://www.facebook.com/groups/node.es/
+- .Net : https://www.facebook.com/groups/aspcore/
+- Python : https://www.facebook.com/groups/275366519230814/
+- ReactJS : https://www.facebook.com/groups/reactjslatino/
+
 
 
 
