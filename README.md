@@ -26,7 +26,7 @@ Estas últimas son con un modelo en el cual pagas o  haces un acuerdo para que  
 ## Cursos gratis recomendados:
 * En Udemy existen este listado de cursos gratuitos http://rebaja.info/750cursos.html
 * EdTeam: https://ed.team/cursos-gratis
-* Platzi Este curso https://platzi.com/clases/programacion-basica/
+* Platzi Este curso https://platzi.com/cursos/programacion-basica/
 
 ## Red Social para profesionales:
 https://www.linkedin.com/
@@ -45,7 +45,11 @@ https://www.qavision.com.co/quienes-somos ellos támbien entrenan personal segú
 # Comunidades de Ruta N
 https://www.rutanmedellin.org/comunidadestech/todas/
 
-
+### Videos que te ayudarán a orientarte en desarrollo de software:
+* ¿No sirvo para programar? https://www.youtube.com/watch?v=sOdjy77yy_U&feature=youtu.be
+* Por dónde COMENZAR tu carrera en tecnología https://youtu.be/lt3nHsVXo5g?list=PL_BUNHvWLImx9AjGjDElVsHrFNAs_9PWh
+* Ruta de aprendizaje de un desarrollador web: https://youtu.be/ExsGyZDBlJQ
+* Aprender a Aprender: https://www.youtube.com/watch?v=jD12EKtDJTU
 
 
 
