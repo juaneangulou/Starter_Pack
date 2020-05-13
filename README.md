@@ -6,27 +6,27 @@ Stackoverflow https://stackoverflow.com/ es la página de los lamentos para todo
 
 Para empezar existen varias plataformas que nos ayudarán a alcanzar las metas en cuanto a conocimiento entre ellas estan:
 
-*Platzi: https://platzi.com/ 
-*Udemy: https://www.udemy.com/ Acá hay cursos de toda clase, manualidades, cocina, deporte, pero en los últimos años se ha posicionado como una de las plataformas favoritas para el consumo de cursos de hecho es una de mis favoritas. 
-*EdTeam: https://ed.team/cursos
-*NetUniversity: https://net-university.ninja/
-*Coursera: https://www.coursera.org/
-*Acamica : https://www.acamica.com/
-*Kodoti: https://kodoti.com/cursos
+* Platzi: https://platzi.com/ 
+* Udemy: https://www.udemy.com/ Acá hay cursos de toda clase, manualidades, cocina, deporte, pero en los últimos años se ha posicionado como una de las plataformas favoritas para el consumo de cursos de hecho es una de mis favoritas. 
+* EdTeam: https://ed.team/cursos
+* NetUniversity: https://net-university.ninja/
+* Coursera: https://www.coursera.org/
+* Acamica : https://www.acamica.com/
+* Kodoti: https://kodoti.com/cursos
 
 Todas las anteriores plataformas tienen cursos gratis  pero en su mayoria son de pago.
 
-##Existen estos casos especiales:
-*Holberton School : https://www.holbertonschool.com/
-*Make it real: https://makeitreal.camp/
+## Existen estos casos especiales:
+* Holberton School : https://www.holbertonschool.com/
+* Make it real: https://makeitreal.camp/
 
 Estas últimas son con un modelo en el cual pagas o  haces un acuerdo para que  te cobre solo cuando tengas trabajo y ellos te ayudarán a prepararte par apresentar la entrevista y obtener el trabajo, muy importante el tema del Inglés! pero pueden indagar.
 
 
-##Cursos gratis recomendados:
-*En Udemy existen este listado de cursos gratuitos http://rebaja.info/750cursos.html
-*EdTeam: https://ed.team/cursos-gratis
-*Platzi Este curso https://platzi.com/clases/programacion-basica/
+## Cursos gratis recomendados:
+* En Udemy existen este listado de cursos gratuitos http://rebaja.info/750cursos.html
+* EdTeam: https://ed.team/cursos-gratis
+* Platzi Este curso https://platzi.com/clases/programacion-basica/
 
 ##Red Social para profesionales:
 https://www.linkedin.com/
